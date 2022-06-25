@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GurneckJohal
-- 👀 I’m interested in many things. Culture, language, fashion, music, movies, games, sports, history, and last but not least, web development. 
+- 👀 I’m interested in many things. Culture, language, fashion, music, movies, games, sports, history, economics, politics, and last but not least, web development :) 
 - 🌱 I’m currently learning about design priciples to improve my front-end development skills.
 - 📫 How to reach me:
       - email: gurneckjohal@gmail.com 
