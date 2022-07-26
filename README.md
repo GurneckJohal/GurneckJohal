@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about design priciples to improve my front-end development skills.
 - 📫 How to reach me:
       - email: gurneckjohal@gmail.com 
+      
+- Check out my Gold Jewellery Appraiser! GurneckJohal.github.io/GoldJewelleryAppraiser
 
 <!---
 GurneckJohal/GurneckJohal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
