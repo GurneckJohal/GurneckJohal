@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GurneckJohal
-- 👀 I’m interested in many things. Culture, language, fashion, music, movies, games, sports, history, economics, politics, and last but not least, web development :) 
+- 👀 I’m interested in many things. Culture, language, fashion, music, movies, games, sports, history, economics, politics, and last but not least, software development :) 
 - 🌱 I’m currently working through the NeetCode150 problem set to improve my understanding of algorithms and datastructures.
 - 📫 How to reach me:
       - email: gurneckjohal@gmail.com 
